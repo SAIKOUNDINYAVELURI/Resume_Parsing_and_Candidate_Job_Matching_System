@@ -87,7 +87,7 @@ Follow the steps to set up the project locally:
 
 1. **Clone the repo**  
    ```
-   git clone https://github.com/your-username/Resume-Parsing-and-Matching-System.git
+ [  git clone https://github.com/your-username/Resume-Parsing-and-Matching-System.git](https://github.com/SAIKOUNDINYAVELURI/Resume_Parsing_and_Candidate_Job_Matching_System.git)
    ```
 
 2. **Create virtual environment**
