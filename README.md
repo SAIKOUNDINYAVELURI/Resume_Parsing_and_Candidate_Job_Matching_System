@@ -86,9 +86,10 @@ Make sure the following are installed on your machine:
 Follow the steps to set up the project locally:
 
 1. **Clone the repo**  
-   ```
+  ```
   https://github.com/SAIKOUNDINYAVELURI/Resume_Parsing_and_Candidate_Job_Matching_System.git
-   ```
+  ```
+  
 
 2. **Create virtual environment**
    ```
